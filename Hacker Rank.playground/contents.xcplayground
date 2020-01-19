@@ -3,5 +3,7 @@
     <pages>
         <page name='Welcome'/>
         <page name='Challange 6'/>
+        <page name='Challange 4'/>
+        <page name='Challange 3'/>
     </pages>
 </playground>
